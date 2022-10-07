@@ -1,9 +1,17 @@
-### Hi there 👋
+## Hi I'm Wonho
+
+<div align="center">
+  🖥️ I'm FE Developer
+  <br/>
+  📫 How to reach me: wonho7344@gmail.com
+</div>  
+
+<br/>
+<br/>
 
 <div align="center">
 
   ### 📌 Tech Stack
-
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=ffffff">
   <br/>
@@ -18,7 +26,6 @@
 <br/>
 <br/>
 
-
 <div align="center">
-  ![woonhk90's github stats](https://github-readme-stats.vercel.app/api?username=woonhk90&show_icons=true)
+  <img align=top src="https://github-readme-stats.vercel.app/api?username=woonhk90&theme=react&show_icons=true" />
 </div>
