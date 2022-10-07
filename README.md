@@ -1,9 +1,12 @@
 ## Hi I'm Wonho
 
+<br/>
+
 <div align="center">
-  🖥️ I'm FE Developer
-  <br/>
-  📫 How to reach me: wonho7344@gmail.com
+
+🖥️ I'm FE Developer  
+📫 How to reach me: wonho7344@gmail.com  
+
 </div>  
 
 <br/>
